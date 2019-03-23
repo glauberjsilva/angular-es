@@ -1,0 +1,60 @@
+npm-debug.log
+
+03-data-binding/app/**/*.js
+02-primeiro-componente/app/**/*.js
+
+*.iml
+
+.idea/*
+02-primeiro-componente/app/cursos/cursos.component.js
+
+02-primeiro-componente/app/cursos/cursos.component.js
+.vscode/angulardoc.json
+forms/.vscode/settings.json
+requests-http/.vscode/settings.json
+
+
+# Outputs
+bazel-*
+test-project-host-*
+dist/
+dist-schema/
+
+# IDEs
+.idea/
+jsconfig.json
+.vscode/
+
+# Typings file.
+typings/
+
+# Misc
+coverage/
+node_modules/
+tmp/
+npm-debug.log*
+yarn-error.log*
+.ng_pkg_build/
+
+# Mac OSX Finder files.
+**/.DS_Store
+.DS_Store
+
+node_modules
+_temp
+bower_components
+jspm_packages
+**/packages
+build
+pubspec.lock
+.pub
+.packages
+*.map
+.DS_Store
+**/*.iml
+.idea
+.vscode
+**/js/latest/api
+**/ts/latest/api
+**/dart/latest/api
+**/docs/**/_fragments
