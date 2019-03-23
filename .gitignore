@@ -1,18 +1,6 @@
 npm-debug.log
 
-03-data-binding/app/**/*.js
-02-primeiro-componente/app/**/*.js
-
-*.iml
-
-.idea/*
-02-primeiro-componente/app/cursos/cursos.component.js
-
-02-primeiro-componente/app/cursos/cursos.component.js
 .vscode/angulardoc.json
-forms/.vscode/settings.json
-requests-http/.vscode/settings.json
-
 
 # Outputs
 bazel-*
@@ -50,9 +38,10 @@ pubspec.lock
 .pub
 .packages
 *.map
-.DS_Store
+*.iml
 **/*.iml
 .idea
+.idea/*
 .vscode
 **/js/latest/api
 **/ts/latest/api
